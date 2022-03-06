@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Latin America World Heritage</string>
+    <string name="ecosytem">Ecosystem</string>
+    <string name="heritage_name">Heritage Name</string>
+    <string name="country">Country</string>
+    <string name="empty_state_label">It seems like there\'s nothing to show 😥</string>
+    <string name="add_button">Add Heritage</string>
+    <string name="incomplete_fields">Please complete the form</string>
+    <string name="success_at_adding_heritage">Successfully added heritage to database</string>
+    <string name="deletion_confirmation">Are you sure you want to delete this entry?</string>
+    <string name="sure_button">Sure</string>
+    <string name="unsure_button">Not really</string>
+    <string name="successful_deletion">Successfully deleted entry</string>
+    <string name="delete">Delete</string>
+    <string name="submit_changes_button">Submit changes</string>
+    <string name="successful_update">Successfully updated item</string>
+    <string name="unsuccessful_update">There was an error while trying to update this item</string>
+
+    <string-array name="countries_array">
+        <item>Select a country</item>
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Brazil</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Cuba</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>French Guiana</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Jamaica</item>
+        <item>Mexico</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Puerto Rico</item>
+        <item>Suriname</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+</resources>
